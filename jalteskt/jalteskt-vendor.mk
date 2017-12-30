@@ -143,7 +143,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jalteskt/proprietary/etc/ymc/param/aec_vbox_bypass_wb.dat:system/etc/ymc/param/aec_vbox_bypass_wb.dat \
     vendor/samsung/jalteskt/proprietary/lib/hw/audio.primary.vendor.universal5410.so:system/lib/hw/audio.primary.vendor.universal5410.so \
     vendor/samsung/jalteskt/proprietary/lib/hw/audio_policy.universal5410.so:system/lib/hw/audio_policy.universal5410.so \
-    vendor/samsung/jalteskt/proprietary/lib/hw/gps.universal5410.so:system/lib/hw/gps.universal5410.so \
+    vendor/samsung/jalteskt/proprietary/lib/hw/gps.universal5410.so_disabled:system/lib/hw/gps.universal5410.so_disabled \
     vendor/samsung/jalteskt/proprietary/lib/lib_DNSe_NRSS_ver226.so:system/lib/lib_DNSe_NRSS_ver226.so \
     vendor/samsung/jalteskt/proprietary/lib/lib_SA_GoogleFX_ver119k.so:system/lib/lib_SA_GoogleFX_ver119k.so \
     vendor/samsung/jalteskt/proprietary/lib/lib_SamsungRec_V03011b.so:system/lib/lib_SamsungRec_V03011b.so \
